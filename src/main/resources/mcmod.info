@@ -1,0 +1,16 @@
+[
+{
+  "modid": "boptweaks",
+  "name": "BoPTweaks",
+  "description": "Tweaks Biomes O Plenty to allow large fir tree growth.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CombatZAK"],
+  "credits": "Thanks to the Biomes O Plenty team for their excellent work",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
